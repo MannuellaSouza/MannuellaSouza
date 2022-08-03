@@ -9,6 +9,4 @@
 </div> <br>
 
 ##
-<a href="https://www.linkedin.com/in/mannuella-souza-3504a2160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 <a href="https://www.linkedin.com/in/mannuella-souza-3504a2160/" target="_blank"><img  height="90" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"/></a> 
