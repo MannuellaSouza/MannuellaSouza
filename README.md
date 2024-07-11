@@ -1,4 +1,3 @@
- 👩‍🎓 Estudante de Salesforce na SoulCode Academy<br>
  😊 Pronouns: ela/dela 
  
 <div style="display: inline_block"><br>
